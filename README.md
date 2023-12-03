@@ -1,5 +1,13 @@
 # Upwork Job Post Data Analysis
 
+## Table of Contents
+
+- [Project Overview](#project-overview)
+- [Features](#features)
+- [Repository Structure](#repository-structure)
+- [Disclaimer](#disclaimer)
+- [Data Analysis](analysis/analysis.ipynb)
+
 ## Project Overview
 
 This project is designed to analyze job postings on Upwork by employing web scraping techniques and conducting a subsequent analysis within a Jupyter Notebook. Our goal is to extract meaningful insights that could aid data analyst freelancers in understanding the current job market, identify the most sought-after skills, and get a sense of prevailing rate structures.
