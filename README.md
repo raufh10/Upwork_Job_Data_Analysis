@@ -24,7 +24,7 @@ This project is designed to analyze job postings on Upwork by employing web scra
 
 - `analysis/` - Contains the Jupyter Notebook that details the data analysis process.
 - `etl/` - Includes beautifulsoup script for scraping job data from Upwork. Also contains scripts for cleaning and preprocessing the raw data into presentable json format. etl folder also contains scripts for the GPT 3.5 Turbo analysis.
-- `output/` - Contains the json file with the job data for main analysis and results of the GPT 3.5 Turbo analysis.
+- `output/` - Contains the json file with the job data.
 - `README.md` - This file, which acts as a guide for the repository.
 
 ## Disclaimer
