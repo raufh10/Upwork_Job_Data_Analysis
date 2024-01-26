@@ -59,13 +59,13 @@ My goals for this project are to extract meaningful insights that could aid data
 Based on the findings, the following actions are recommended:
 
 1. **Skill Development Focus:**
-   - Prioritize learning tools like Microsoft Excel, Python, SQL, and Microsoft Power BI to align with market demand. Obviously, this is not to say that other tools are not in demand, but rather that these tools are more in demand than others. For example most employers are looking for Microsoft Excel skills, because Microsoft Excel is a very common tool used for dealing with spreadsheet. Similarly, Python is a very popular programming language, and SQL is a very common language used for querying databases. Therefore, it is recommended to focus on these tools to increase the chances of getting freelance jobs.
+Prioritize learning tools like Microsoft Excel, Python, SQL, and Microsoft Power BI to align with market demand. Obviously, this is not to say that other tools are not in demand, but rather that these tools are more in demand than others. For example most employers are looking for Microsoft Excel skills, because Microsoft Excel is a very common tool used for dealing with spreadsheet. Similarly, Python is a very popular programming language, and SQL is a very common language used for querying databases. Therefore, it is recommended to focus on these tools to increase the chances of getting freelance jobs.
 
 2. **Project Selection Strategy:**
-   - Given the weak negative relationship between project duration and average hourly rate, it may be beneficial to apply for shorter-duration projects, especially if the aim is to maximize hourly earnings.
+Given the weak negative relationship between project duration and average hourly rate, it may be beneficial to apply for shorter-duration projects, especially if the aim is to maximize hourly earnings.
 
 3. **Pricing Strategy Based on Experience:**
-   - Adjust pricing strategies to what is appropriate for the experience level or the budget of the employer. For example, if you are an entry level data analyst, you should not be charging the same hourly rate as an expert data analyst. Similarly, if you are an expert data analyst, you should not be charging the same hourly rate as an entry level data analyst. This is because employers are willing to pay more for expert data analysts, and less for entry level data analysts. Therefore, it is also recommended to adjust your hourly rate based on your experience level.
+Adjust pricing strategies to what is appropriate for the experience level or the budget of the employer. For example, if you are an entry level data analyst, you should not be charging the same hourly rate as an expert data analyst. Similarly, if you are an expert data analyst, you should not be charging the same hourly rate as an entry level data analyst. This is because employers are willing to pay more for expert data analysts, and less for entry level data analysts. Therefore, it is also recommended to adjust your hourly rate based on your experience level.
 
 ## Questions for Further Research
 
