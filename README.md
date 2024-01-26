@@ -46,13 +46,13 @@ My goals for this project are to extract meaningful insights that could aid data
 ## Conclusion and Insights
 
 1. **Skill Popularity:**
-   - The most in-demand tool-based skills in our dataset include Microsoft Excel, Python, SQL, Microsoft Power BI, Google Analytics, R, and Tableau.
+The most in-demand tool-based skills in our dataset include Microsoft Excel, Python, SQL, Microsoft Power BI, Google Analytics, R, and Tableau.
 
 2. **Duration & Average Hourly Rate Regression Analysis:**
-   - The analysis yielded an `r` value of -0.16, indicating a weak negative linear relationship between project duration and average hourly rate.
+The analysis yielded an `r` value of -0.16, indicating a weak negative linear relationship between project duration and average hourly rate.
 
 3. **Hourly Rates:**
-   - There is a noticeable trend in hourly rates relative to experience level. On average, the transition from Entry level to Intermediate level sees an approximate increase of $20 in hourly rate. Similarly, moving from Intermediate to Expert level typically results in an additional increase of around $10.
+There is a noticeable trend in hourly rates relative to experience level. On average, the transition from Entry level to Intermediate level sees an approximate increase of $20 in hourly rate. Similarly, moving from Intermediate to Expert level typically results in an additional increase of around $10.
 
 ## Actionable Insights
 
