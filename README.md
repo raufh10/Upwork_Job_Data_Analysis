@@ -2,14 +2,17 @@
 
 ## Table of Contents
 
+- [Data Analysis (Jupyter Notebook)](#data-analysis)
 - [Project Overview](#project-overview)
 - [Features](#features)
 - [Repository Structure](#repository-contents)
-- [Upwork Data Analysis (Jupyter Notebook)](analysis/analysis.ipynb)
 - [Conclusion and Insights](#conclusion-and-insights)
 - [Actionable Insights](#actionable-insights)
 - [Questions for Further Research](#questions-for-further-research)
 - [Disclaimer](#disclaimer)
+
+## Data Analysis
+To access the analysis in the Jupyter Notebook, [click here](analysis/analysis.ipynb).
 
 ## Project Overview
 
