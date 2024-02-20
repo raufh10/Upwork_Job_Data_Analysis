@@ -20,7 +20,7 @@ To access the analysis in the Jupyter Notebook, [click here](analysis/analysis.i
 
 ### Methodology
 
-- **Web Scraping Techniques**: Employ advanced methods to gather data from Upwork job postings.
+- **Web Scraping Techniques**: Utilize BeautifulSoup4 and Playwright to gather data from Upwork job postings.
 - **Data Analysis in Jupyter Notebook**: Conduct an in-depth analysis of the scraped data.
 
 ### Goals
